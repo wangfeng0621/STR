@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+C:\Users\SWUFE\Desktop\¹úÇì\libsvm-3.17\java\libsvm\.metadata\.plugins\org.eclipse.jdt.core
